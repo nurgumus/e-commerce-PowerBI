@@ -6,4 +6,12 @@ Has two donut charts that show distrubuting of customers states and their prefer
 The line chart shows the total sales.
 Whole dashboard is interactive.
 ![Ekran görüntüsü 2024-01-25 130412](https://github.com/nurgumus/e-commerce-PowerBI/assets/108015878/6a045a29-9497-4925-a095-7b502aa5f262)
+
+You can swwitch between two tables.
+
 ![Ekran görüntüsü 2024-01-25 144317](https://github.com/nurgumus/e-commerce-PowerBI/assets/108015878/57de733c-1e54-4616-a4f6-558d92768533)
+
+Here is the data model
+
+![Ekran görüntüsü 2024-01-25 145236](https://github.com/nurgumus/e-commerce-PowerBI/assets/108015878/6839a2ac-6209-44fb-a502-fbb9d1f26d2d)
+
